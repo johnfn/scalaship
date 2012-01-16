@@ -1,0 +1,3 @@
+# Scalaship
+
+Battleship in Scala.
